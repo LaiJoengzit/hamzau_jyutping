@@ -4,7 +4,7 @@ A dict file revised and reduced from the data of "Hamchow Cantonese" so that it 
 一份戥佢配套噶輸入方案<br>
 A schema that comes with the dict<br>
 同埋包好欽拼噶小狼毫、同文包<br>
-Also installation packages of Weasel and Trime with this Hamping. <br>
+Also installation packages with this Hamping for Weasel and Trime. <br>
 
 * 而今項工：等緊《欽州白話》付梓後數據庫啲更新。<br>
     The current mission: Waiting for the updates of the "Hamchow Cantonese" database after it went to press. 
