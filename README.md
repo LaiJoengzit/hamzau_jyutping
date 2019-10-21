@@ -3,6 +3,6 @@
 
 A dict file revised and reduced from the data of "Hamchow Cantonese" so that it can be used in rimes and a schema that comes with it. 
 
-    而今項工：等緊《欽州白話》付梓後噶數據庫更新。
+*而今項工：等緊《欽州白話》付梓後噶數據庫更新。
     
-    The current mission: Waiting for the update of the database of "Hamchow Cantonese". 
+*The current mission: Waiting for the update of the database of "Hamchow Cantonese". 
