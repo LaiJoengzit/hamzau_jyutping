@@ -22,7 +22,7 @@ Press "部署"(Deploy) (it will jump out but it's fine); <br>
 Use it.<br><br>
 
 對於ios使用者：<br>
-For ios users: 
+For ios users: <br>
 多煩自己下載irime並學習安裝方法（見圖自隻irime羣）<br>
 Please download irime and learn how to install it by yourselves (look at the picture from the irime group) <br><br>
 
