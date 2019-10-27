@@ -5,10 +5,13 @@ A dict file revised and reduced from the data of "Hamchow Cantonese" so that it 
 A schema coming with the dict<br>
 同埋包好欽拼噶小狼毫、同文包<br>
 Also installation packages with this Hamping for Weasel and for Trime<br><br>
+
+貼士：長撳"z"鍵出"‵"可以使汉语拼音方案反查對應噶欽州音，但要注意多音字<br>
+Tips: you can reversely look up Hamping with long_clicking the "z" button calling "‵", but pay attention to the Heteronyms<br><br>
 注意：建議在設置裏頭設同文鍵盤主題成tongwenfenggoi（同文風改）<br>
 Attention: it is recommended to set the keyboard theme of Trime into "tongwenfenggoi"("Trime Style (Modified)") in the settings<br><br>
-注意：想使tongwenfenggoi噶日文韓文鍵盤，你要裝有對應噶日文韓文思機碼，𠹲純假名鍵盤就冇使<br>
-Attention: to use the keyboards for Japanese or Korean, you need to get corresponding Japanese or Korean schemata installed, but you don't need one for the keyboard of pure kana. <br><br>
+注意：想使tongwenfenggoi噶日文韓文鍵盤，你要裝有對應噶日文韓文思機碼、為之可以諮詢啲相關人士，𠹲純假名鍵盤就冇使<br>
+Attention: to use the keyboards for Japanese or Korean, you need to get corresponding Japanese or Korean schemata installed, for which you may refer to the relevant people, while you don't need one for the keyboard of pure kana. <br><br>
 
 Android同文手動更新文件方法：<br>
 To update the files for Trime in Android manually: <br>
@@ -24,7 +27,8 @@ Use it.<br><br>
 對於ios使用者：<br>
 For ios users: <br>
 多煩自己下載irime並學習安裝方法（見圖自隻irime羣）<br>
-Please download irime and learn how to install it by yourselves (look at the picture from the irime group) <br><br>
+Please download irime and learn how to install it by yourselves (look at the picture from the irime group) <br>
+https://github.com/LaiJoengzit/Hamzau_rimedict/raw/master/irime導入方案之法.JPG <br><br>
 
 * 而今項工：等緊《欽州白話》付梓後數據庫啲更新。<br>
     The current mission: Waiting for the updates of the "Hamchow Cantonese" database after it went to press. 
