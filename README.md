@@ -5,8 +5,8 @@ A dict file revised and reduced from the data of "Hamchow Cantonese" so that it 
 A schema coming with the dict<br>
 同埋包好欽拼噶小狼毫、同文包<br>
 Also installation packages with this Hamping for Weasel and for Trime<br>
-注意：建議同文鍵盤主題切換成tongwenfenggoi（同文風改）<br>
-Attention: it is recommended to change the keyboard theme of Trime into "tongwenfenggoi"("Trime Style (Modified)")<br>
+注意：建議在設置裏頭設同文鍵盤主題成tongwenfenggoi（同文風改）<br>
+Attention: it is recommended to set the keyboard theme of Trime into "tongwenfenggoi"("Trime Style (Modified)") in Setting<br>
 
 * 而今項工：等緊《欽州白話》付梓後數據庫啲更新。<br>
     The current mission: Waiting for the updates of the "Hamchow Cantonese" database after it went to press. 
