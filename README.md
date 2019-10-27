@@ -18,8 +18,8 @@ Put Hamzau_jyutping.dict and Hamzau_jyutping.schema into /rime and replace the o
 Get into the Setting of Trime;<br> 
 撳“部署”（正常跳出冇關事）；<br>
 Press "部署"(Deploy) (it will jump out but it's fine); <br>
-使<br><br>
-Use it.<br>
+使。<br>
+Use it.<br><br>
 
 對於ios使用者：<br>
 For ios users: 
