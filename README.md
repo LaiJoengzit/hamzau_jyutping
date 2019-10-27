@@ -13,7 +13,7 @@ Attention: to use the keyboards for Japanese or Korean, you need to get correspo
 Android同文手動更新文件方法：<br>
 To update the files for Trime in Android manually: <br>
 捉Hamzau_jyutping.dict同埋Hamzau_jyutping.schema挃落/rime文件夾來替換啲舊噶；<br>
-Put Hamzau_jyutping.dict and Hamzau_jyutping.schema into /rime and replace the old ones; 
+Put Hamzau_jyutping.dict and Hamzau_jyutping.schema into /rime and replace the old ones; <br>
 入同文設置；<br>
 Get into the Setting of Trime;<br> 
 撳“部署”（正常跳出冇關事）；<br>
