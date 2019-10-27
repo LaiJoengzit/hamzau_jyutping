@@ -7,8 +7,8 @@ A schema coming with the dict<br>
 Also installation packages with this Hamping for Weasel and for Trime<br><br>
 注意：建議在設置裏頭設同文鍵盤主題成tongwenfenggoi（同文風改）<br>
 Attention: it is recommended to set the keyboard theme of Trime into "tongwenfenggoi"("Trime Style (Modified)") in the settings<br><br>
-注意：想使tongwenfenggoi噶日文韓文鍵盤，你要裝有對應噶日文韓文思機碼，𠹲純假名鍵盤就冇使<br>
-Attention: to use the keyboards for Japanese or Korean, you need to get corresponding Japanese or Korean schemata installed, but you don't need one for the keyboard of pure kana. <br><br>
+注意：想使tongwenfenggoi噶日文韓文鍵盤，你要裝有對應噶日文韓文思機碼、為之可以諮詢相關人士，𠹲純假名鍵盤就冇使<br>
+Attention: to use the keyboards for Japanese or Korean, you need to get corresponding Japanese or Korean schemata installed, for which you may refer to the relevant people, but you don't need one for the keyboard of pure kana. <br><br>
 
 Android同文手動更新文件方法：<br>
 To update the files for Trime in Android manually: <br>
