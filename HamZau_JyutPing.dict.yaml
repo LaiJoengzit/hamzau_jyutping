@@ -1069,7 +1069,7 @@ min_phrase_weight: 100
 出出入入	cat1 cat1 jap4 jap4	
 齣	cat1	
 繅	cau1	
-操	cau1	
+操	cau1	5000
 抽	cau1	
 抽水	cau1 sui2	
 抽鹽蛇	cau1 jim4 se4	
@@ -1081,7 +1081,6 @@ min_phrase_weight: 100
 秋	cau1	
 秋楓子	cau1 fung1 zi2	
 鞦	cau1	
-愀	cau1	5000
 㾭	cau1	5000
 楸	cau1	
 鰍	cau1	
