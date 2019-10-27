@@ -6,7 +6,7 @@ A schema coming with the dict<br>
 同埋包好欽拼噶小狼毫、同文包<br>
 Also installation packages with this Hamping for Weasel and for Trime<br><br>
 
-貼士：長撳"z"鍵出`可以使汉语拼音方案反查對應噶欽州音，但要注意多音字<br>
+貼士：長撳"z"鍵出"`"可以使汉语拼音方案反查對應噶欽州音，但要注意多音字<br>
 Tips: you can reversely look up Hamping with long_clicking the "z" button calling "`", but pay attention to the Heteronyms<br>
 注意：建議在設置裏頭設同文鍵盤主題成tongwenfenggoi（同文風改）<br>
 Attention: it is recommended to set the keyboard theme of Trime into "tongwenfenggoi"("Trime Style (Modified)") in the settings<br><br>
