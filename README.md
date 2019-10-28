@@ -7,7 +7,7 @@ A schema coming with the dict<br>
 Also installation packages with this Hamping for Weasel and for Trime<br><br>
 
 貼士：長撳"z"鍵出"‵"可以使汉语拼音方案反查對應噶欽州音，但要注意多音字<br>
-Tips: you can reversely look up Hamping with long_clicking the "z" button calling "‵", but pay attention to the Heteronyms<br>
+Tips: you can reversely look up Hamping with long_clicking the "z" button calling "‵", but pay attention to the Heteronyms<br><br>
 注意：建議在設置裏頭設同文鍵盤主題成tongwenfenggoi（同文風改）<br>
 Attention: it is recommended to set the keyboard theme of Trime into "tongwenfenggoi"("Trime Style (Modified)") in the settings<br><br>
 注意：想使tongwenfenggoi噶日文韓文鍵盤，你要裝有對應噶日文韓文思機碼、為之可以諮詢啲相關人士，𠹲純假名鍵盤就冇使<br>
