@@ -1,5 +1,8 @@
 # 欽州粵拼
 
+[![exe](https://img.shields.io/badge/exe%E4%B8%8B%E8%BC%89-windows-blue?style=for-the-badge&logo=windows)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/v1.0/HamzaujyutpingforPC.exe)
+[![apk](https://img.shields.io/badge/apk%E4%B8%8B%E8%BC%89-Android-brightgreen?style=for-the-badge&logo=android)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/v1.0/HamzaujyutpingforAndroid.apk)
+
 一份修減自《欽州白話》數據、聽在Rime使得噶字詞庫碼表文件<br>
 A dict file revised and reduced from the data of *Hamchow Cantonese* so that it can be used in Rimes<br>
 
