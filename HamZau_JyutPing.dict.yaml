@@ -7,7 +7,7 @@
 #   add phrases from open Cantonese dictionary: http://kaifangcidian.com/han/yue
 
 ---
-name: HamZau_JyutPing
+name: hamzau_jyutping
 version: "8.12"
 sort: by_weight
 use_preset_vocabulary: true

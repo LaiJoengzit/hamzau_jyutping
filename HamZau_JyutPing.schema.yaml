@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: HamZau_JyutPing
+  schema_id: hamzau_jyutping
   name: 欽拼
   version: "7.31"
   author:
