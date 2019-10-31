@@ -1,34 +1,44 @@
-# Hamzau_rimedict
-一份修減自《欽州白話》數據、聽在rime使得噶字詞庫碼表文件<br>
-A dict file revised and reduced from the data of "Hamchow Cantonese" so that it can be used in rimes<br>
+# 欽州粵拼
+
+[![exe](https://img.shields.io/badge/exe%E4%B8%8B%E8%BC%89-windows-blue?style=for-the-badge&logo=windows)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/v1.0/HamzaujyutpingforPC.exe)
+[![apk](https://img.shields.io/badge/apk%E4%B8%8B%E8%BC%89-Android-brightgreen?style=for-the-badge&logo=android)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/v1.0/HamzaujyutpingforAndroid.apk)
+
+配方 Recipe： ℞ `LaiJoengzit/hamzau_jyutping`
+
+一份修減自《欽州白話》數據、聽在Rime使得噶字詞庫碼表文件<br>
+A Rime schema based on the data from *Hamchow Cantonese* <br>
+
 一份戥佢配套噶輸入方案<br>
-A schema coming with the dict<br>
+A schema coming with a dict<br>
+
 同埋包好欽拼噶小狼毫、同文包<br>
-Also installation packages with this Hamping for Weasel and for Trime<br><br>
+And one-click install Weasel and Trime packages with this Hamping
 
-貼士：長撳"z"鍵出"‵"可以使汉语拼音方案反查對應噶欽州音，但要注意多音字<br>
-Tips: you can reversely look up Hamping with long_clicking the "z" button calling "‵", but pay attention to the Heteronyms<br><br>
+貼士：長撳<kbd>z</kbd>鍵出"‵"可以使汉语拼音方案反查對應噶欽州音，但要注意多音字<br>
+Tips: you can reversely look up Hamping by holding the <kbd>z</kbd> button calling "‵", but keep an eye on homographs.
+
 注意：建議在設置裏頭設同文鍵盤主題成tongwenfenggoi（同文風改）<br>
-Attention: it is recommended to set the keyboard theme of Trime into "tongwenfenggoi"("Trime Style (Modified)") in the settings<br><br>
+Note: it is recommended to set the keyboard theme of Trime into "tongwenfenggoi"("Trime Style (Modified)") in the settings
+
 注意：想使tongwenfenggoi噶日文韓文鍵盤，你要裝有對應噶日文韓文思機碼、為之可以諮詢啲相關人士，𠹲純假名鍵盤就冇使<br>
-Attention: to use the keyboards for Japanese or Korean, you need to get corresponding Japanese or Korean schemata installed, for which you may refer to the relevant people, while you don't need one for the keyboard of pure kana. <br><br>
+Note: to use the keyboards for Japanese or Korean, you need to get corresponding Japanese or Korean schemata installed, for which you may refer to the relevant people, while you don't need one for the keyboard of pure kana. 
 
-Android同文手動更新文件方法：<br>
-To update the files for Trime in Android manually: <br>
-捉Hamzau_jyutping.dict同埋Hamzau_jyutping.schema挃落/rime文件夾來替換啲舊噶；<br>
-Put Hamzau_jyutping.dict and Hamzau_jyutping.schema into /rime and replace the old ones; <br>
-入同文設置；<br>
-Get into the settings of Trime;<br> 
-撳“部署”（正常跳出冇關事）；<br>
-Press "部署"(Deploy) (it will jump out but it's fine); <br>
-使。<br>
-Use it.<br><br>
+#### Android同文手動更新文件方法：<br>To manually update the files of Trime for Android:
 
-對於ios使用者：<br>
-For ios users: <br>
-多煩自己下載irime並學習安裝方法（見圖自隻irime羣）<br>
-Please download irime and learn how to install it by yourselves (look at the picture from the irime group) <br>
-https://github.com/LaiJoengzit/Hamzau_rimedict/raw/master/irime導入方案之法.JPG <br><br>
+1. 捉`Hamzau_jyutping.dict`同埋`Hamzau_jyutping.schema`挃落`/Rime`文件夾來替換啲舊噶；<br>
+Put `Hamzau_jyutping.dict` and `Hamzau_jyutping.schema` into `/Rime` and replace the old ones; <br>
+2. 入同文設置；<br>
+Go to the settings of Trime;<br> 
+3. 撳“部署”（正常跳出冇關事）；<br>
+Press "部署" (Deploy) (it will jump out but it's fine); <br>
+4. 使。<br>
+Use it.
+
+#### 對於iOS使用者：<br>For iOS users:
+
+多煩自己下載iRime並學習安裝方法（見圖自隻iRime羣）<br>
+Please download iRime and learn how to install it by yourselves (look at the picture from the iRime group) <br>
+https://github.com/LaiJoengzit/Hamzau_rimedict/raw/master/irime導入方案之法.JPG 
 
 * 而今項工：等緊《欽州白話》付梓後數據庫啲更新。<br>
-    The current mission: Waiting for the updates of the "Hamchow Cantonese" database after it went to press. 
+    TODO: Waiting for the updates of the "Hamchow Cantonese" database after it went to press.

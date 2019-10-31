@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: HamZau_JyutPing
+  schema_id: hamzau_jyutping
   name: 欽拼
   version: "7.31"
   author:
@@ -89,7 +89,7 @@ speller:
     - derive/([wxyz])/9/	 #手機九宮 電腦毋要使
 
 translator:
-  dictionary: HamZau_JyutPing
+  dictionary: hamzau_jyutping
   spelling_hints: 5
   #comment_format: 
     #- 'xform ([aeiou])(ng)([1234]) $1$3$2'
