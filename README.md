@@ -14,8 +14,8 @@ A schema coming with the dict
 同埋包好欽拼噶小狼毫、同文包<br>
 And packages for Weasel and Trime with this Hamping. 
 
-貼士：長撳<kbd>z</kbd>鍵出"‵"可以使汉语拼音方案反查對應噶欽州音，但要注意多音字<br>
-Tips: you can reversely look up Hamping with Hanyu Pinyin by long_clicking the <kbd>z</kbd> button calling "‵", but be aware of homographs. 
+貼士：電腦直接<kbd>‵</kbd>鍵、安卓長撳<kbd>z</kbd>鍵出"‵"可以使汉语拼音方案反查對應噶欽州音，但要注意多音字<br>
+Tips: you can reversely look up Hamping with Hanyu Pinyin by clicking <kbd>‵</kbd> on PC or by long_clicking the <kbd>z</kbd> button calling "‵" on Android, but be aware of homographs. 
 
 注意：建議在設置裏頭設同文鍵盤主題成tongwenfenggoi（同文風改）<br>
 Note: it is recommended to change the theme into "tongwenfenggoi"("Trime Style (Modified)") for Trime in Settings.
