@@ -1,7 +1,7 @@
 # 欽州粵拼
 
-[![exe](https://img.shields.io/badge/exe%E4%B8%8B%E8%BC%89-windows-blue?style=for-the-badge&logo=windows)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/v1.0/HamzaujyutpingforPC.exe)
-[![apk](https://img.shields.io/badge/apk%E4%B8%8B%E8%BC%89-Android-brightgreen?style=for-the-badge&logo=android)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/v1.0/HamzaujyutpingforAndroid.apk)
+[![exe](https://img.shields.io/badge/exe%E4%B8%8B%E8%BC%89-windows-blue?style=for-the-badge&logo=windows)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/v2.0/HamzaujyutpingforPC.exe)
+[![apk](https://img.shields.io/badge/apk%E4%B8%8B%E8%BC%89-Android-brightgreen?style=for-the-badge&logo=android)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/v2.0/HamzaujyutpingforAndroid.apk)
 
 配方 Recipe： ℞ `LaiJoengzit/hamzau_jyutping`
 
@@ -40,5 +40,5 @@ Use it.
 Please download iRime and learn how to install with the picture from the group of iRime below, on your own: <br>
 <img src="./iRime.JPG" width="200"/>
 
-- 而今項工：等緊《欽州白話》付梓後數據庫啲更新。<br>
-TODO: Waiting for the updates of the *Hamchow Cantonese* database after it went to press.
+- 而今項工：冇有嘢要做。<br>
+TODO: Nothing.
