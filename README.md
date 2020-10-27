@@ -1,7 +1,7 @@
 # 欽州粵拼
 
-[![exe](https://img.shields.io/badge/exe%E4%B8%8B%E8%BC%89-windows-blue?style=for-the-badge&logo=windows)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/v2.0/HamzaujyutpingforPC.exe)
-[![apk](https://img.shields.io/badge/apk%E4%B8%8B%E8%BC%89-Android-brightgreen?style=for-the-badge&logo=android)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/v2.0/HamzaujyutpingforAndroid.apk)
+[![exe](https://img.shields.io/badge/exe%E4%B8%8B%E8%BC%89-windows-blue?style=for-the-badge&logo=windows)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/2.0/HamzaujyutpingforPC.exe)
+[![apk](https://img.shields.io/badge/apk%E4%B8%8B%E8%BC%89-Android-brightgreen?style=for-the-badge&logo=android)](https://github.com/LaiJoengzit/hamzau_jyutping/releases/download/2.0/HamzaujyutpingforAndroid.apk)
 
 配方 Recipe： ℞ `LaiJoengzit/hamzau_jyutping`
 
