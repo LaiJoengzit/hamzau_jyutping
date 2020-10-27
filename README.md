@@ -19,7 +19,8 @@ Tips: you can reversely look up Hamping with Hanyu Pinyin by clicking <kbd>‵</
 
 注意：建議在設置裏頭設同文鍵盤主題成tongwenfenggoi（同文風改），來方便九宮輸入、聲調輸入等等。在PC上可以使上檔鍵<kbd>Shift</kbd>加<kbd>Z</kbd><kbd>R</kbd><kbd>S</kbd><kbd>F</kbd>輸入1234聲調；在安卓同文上需要使tongwenfenggoi、<kbd>z</kbd><kbd>r</kbd><kbd>s</kbd><kbd>f</kbd>鍵「上劃」輸入1234聲調。關於tongwenfenggoi其他噶多種功能請參睇下低鏈接到噶文檔<br>
 Note: it is recommended to change the theme into "tongwenfenggoi"("Trime Style (Modified)") for Trime in Settings to make it easier to input the tones and to input in T9 mode. On PC, you can hold the Shift key <kbd>Shift</kbd> and plus <kbd>Z</kbd><kbd>R</kbd><kbd>S</kbd><kbd>F</kbd> to input tone 1 - tone 4; on Android Trime, you may need to use the theme "tongwenfenggoi" and swipe up on keys <kbd>z</kbd><kbd>r</kbd><kbd>s</kbd><kbd>f</kbd> to input tone 1 - tone 4. For other functions of tongwenfenggoi please see the following link to the introduction. <br>
-[themetips.md](https://github.com/LaiJoengzit/hamzau_jyutping/blob/master/themetips.md)
+
+⇨[關於使用「同文風（改）」主題啲另類鍵功能噶貼士](https://github.com/LaiJoengzit/hamzau_jyutping/blob/master/themetips.md)
 
 注意：想使tongwenfenggoi噶日文韓文鍵盤，Trime要裝有對應噶日文韓文思機碼、為之你可以諮詢啲相關人士，𠹲純假名鍵盤就冇使<br>
 Note: to use the keyboards for Japanese or Korean, it is required to have corresponding Japanese or Korean schemata installed in Trime, for which you may refer to the relevant people, while it is unnecessary for the keyboard of pure kana.
