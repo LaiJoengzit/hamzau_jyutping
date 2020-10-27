@@ -22,6 +22,9 @@ Note: it is recommended to change the theme into "tongwenfenggoi"("Trime Style (
 
 ⇨[關於使用「同文風（改）」主題啲另類鍵功能噶貼士](https://github.com/LaiJoengzit/hamzau_jyutping/blob/master/themetips.md)
 
+你又可以單獨使用tongwenfenggoi主題，衹要下載[tongwenfenggoi.trime.yaml](https://github.com/LaiJoengzit/hamzau_jyutping/blob/master/tongwenfenggoi.trime.yaml)並按下低「Android同文手動更新文件方法」來裝並在設置裏頭揀過主題就得
+You can also use the tongwenfenggoi theme alone, just download [tongwenfenggoi.trime.yaml](https://github.com/LaiJoengzit/hamzau_jyutping/blob/master/tongwenfenggoi.trime.yaml), follow the steps in "To manually update the files of Trime for Android" below to install and change the theme in settings.
+
 注意：想使tongwenfenggoi噶日文韓文鍵盤，Trime要裝有對應噶日文韓文思機碼、為之你可以諮詢啲相關人士，𠹲純假名鍵盤就冇使<br>
 Note: to use the keyboards for Japanese or Korean, it is required to have corresponding Japanese or Korean schemata installed in Trime, for which you may refer to the relevant people, while it is unnecessary for the keyboard of pure kana.
 
