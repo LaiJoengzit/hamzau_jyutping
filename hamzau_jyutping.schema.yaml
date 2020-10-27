@@ -99,7 +99,7 @@ speller:
 translator:
   dictionary: hamzau_jyutping
   spelling_hints: 5
-  comment_format: 
+  preedit_format:
     - 'xform q aa' #回調
     - 'xform r nj' #回調
     - 'xform v ng' #回調
@@ -111,6 +111,7 @@ translator:
     - xform/F/4/                 # 陽平
     - xform/X/5/                 # 陽上
     - xform/J/6/                 # 陽去
+  #comment_format: 
     #- 'xform ([aeiou])(ng)([1234]) $1$3$2'
     #- 'xform ([aeiou])([iumnptk])([1234]) $1$3$2'
     #- 'xform ([ao])([ae])([1234]) $1$3$2'
