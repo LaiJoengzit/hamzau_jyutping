@@ -5,8 +5,8 @@
 
 配方 Recipe： ℞ `LaiJoengzit/hamzau_jyutping`
 
-一份修減自《欽州白話》數據、聽在Rime使得噶字詞庫碼表文件<br>
-A dict file revised and reduced from the data of *Hamchow Cantonese* for use in rimes
+一份修減自《欽州白話》（現[欽州白話網](https://hamzau.com/)）數據、聽在Rime使得噶字詞庫碼表文件<br>
+A dict file revised and reduced from the data of *Hamchow Cantonese* (now [Hamzau.com](https://hamzau.com/)) for use in rimes
 
 一份戥佢配套噶輸入方案<br>
 A schema coming with the dict
