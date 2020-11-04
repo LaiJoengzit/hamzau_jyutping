@@ -22,7 +22,7 @@ You can reversely look up Hamping with Hanyu Pinyin by clicking <kbd>‵</kbd> o
 - 貼士2：<br>
 Tips2: <br>
 關於<kbd>q</kbd><kbd>r</kbd><kbd>v</kbd><kbd>x</kbd><kbd>y</kbd>簡拼：可以使<kbd>q</kbd><kbd>r</kbd><kbd>v</kbd><kbd>x</kbd><kbd>y</kbd>鍵分別輸入「aa」「nj」「ng」「sl」「oe」；使了<kbd>q</kbd><kbd>r</kbd><kbd>v</kbd><kbd>x</kbd><kbd>y</kbd>簡拼可以聽輸入等同於三拼。有心機噶話，你又可以自己定義啱自己噶<kbd>q</kbd><kbd>r</kbd><kbd>v</kbd><kbd>x</kbd><kbd>y</kbd>方案。<br>
-About the abbreviation using <kbd>q</kbd><kbd>r</kbd><kbd>v</kbd><kbd>x</kbd><kbd>y</kbd>: you may use <kbd>q</kbd><kbd>r</kbd><kbd>v</kbd><kbd>x</kbd><kbd>y</kbd> to replace "aa" "nj" "ng" "sl" "oe" respectively, which can make it identical to "trible-ping". You can also define your own <kbd>q</kbd><kbd>r</kbd><kbd>v</kbd><kbd>x</kbd><kbd>y</kbd> methode if you want. <br>
+About the abbreviation using <kbd>q</kbd><kbd>r</kbd><kbd>v</kbd><kbd>x</kbd><kbd>y</kbd>: you may use <kbd>q</kbd><kbd>r</kbd><kbd>v</kbd><kbd>x</kbd><kbd>y</kbd> to replace "aa" "nj" "ng" "sl" "oe" respectively, which can make it identical to "trible-ping". You can also define your own <kbd>q</kbd><kbd>r</kbd><kbd>v</kbd><kbd>x</kbd><kbd>y</kbd> method if you want. <br>
 
 - 注意：<br>
 Note: <br>
