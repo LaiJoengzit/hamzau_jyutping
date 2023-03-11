@@ -70,7 +70,7 @@ style:
   key_long_text_size: 18 #长标签字号
   key_text_size: 24 #键字号
   key_width: 10.0 #键宽，占屏幕宽的百分比
-  keyboards: [.default, letter, default, number, symbols, move, bqrw1, bqrw2, bqrw3, bqrw4, bqrw5, bqrw6, bqqt1, bqqt2, bqqt3, bqqt4, bqqz1, bqqz2, bqqz3, bqqz4, bqqz5, bqqz6, bqpt1, bqpt2, bqhd1, bqhd2, bqhc1, bqhc2, bqhc3, bqlx1, bqlx2, bqlx3, bqlx4, bqlx5, bqlx6, bqkj1, bqkj2, bqkj3, bqkj4, bqkj5, bqfh1, bqfh2, bqfh3, bqfh4, kao_fond, kao_sad, kao_mad, kao_astonished, kao_impotent, kao_happy, editor, hira, kata, nihon, nhndk, nhnhndk, hun] #鍵盤配置
+  keyboards: [.default, letter, default, number, symbols, move, bqrw1, bqrw2, bqrw3, bqrw4, bqrw5, bqrw6, bqqt1, bqqt2, bqqt3, bqqt4, bqqz1, bqqz2, bqqz3, bqqz4, bqqz5, bqqz6, bqpt1, bqpt2, bqhd1, bqhd2, bqhc1, bqhc2, bqhc3, bqlx1, bqlx2, bqlx3, bqlx4, bqlx5, bqlx6, bqkj1, bqkj2, bqkj3, bqkj4, bqkj5, bqfh1, bqfh2, bqfh3, bqfh4, kao_fond, kao_sad, kao_mad, kao_astonished, kao_impotent, kao_happy, editor, hira, kata, nihon, nhndk, nhnhndk, hun, thai, thai2, lao] #鍵盤配置
   label_text_size: 22 #标签字号
   label_font: label.ttf #编标签字体
   latin_font: latin.ttf #西文本体
@@ -503,26 +503,26 @@ preset_keyboards:
     ascii_mode: 0
     keys:
       - {click: q, swipe_up: Q, long_click: '{Keyboard_defaulten}1{Keyboard_last}', key_back_color: bh1, key_text_color: th1}
-      - {click: w, swipe_up: A, long_click: '{Keyboard_defaulten}2{Keyboard_last}', key_back_color: bh1, key_text_color: th1}
+      - {click: w, swipe_up: W, long_click: '{Keyboard_defaulten}2{Keyboard_last}', key_back_color: bh1, key_text_color: th1}
       - {click: e, swipe_up: E, long_click: '{Keyboard_defaulten}3{Keyboard_last}', key_back_color: bh1, key_text_color: th1}
       - {click: r, swipe_up: R, long_click: '{Keyboard_defaulten}4{Keyboard_last}', key_back_color: bh1, key_text_color: th1}
-      - {click: t, swipe_up: T, long_click: '{Keyboard_defaulten}5{Keyboard_last}', key_back_color: bh1, key_text_color: th1, swipe_right: Keyboard_hira, hint: "       か⃯"}
+      - {click: t, swipe_up: T, long_click: '{Keyboard_defaulten}5{Keyboard_last}', key_back_color: bh1, key_text_color: th1, swipe_right: Keyboard_thai, hint: "   ไทย⃯"}
       - {click: y, swipe_up: Y, long_click: '{Keyboard_defaulten}6{Keyboard_last}', key_back_color: bh1, key_text_color: th1}
-      - {click: u, swipe_up: U, long_click: '{Keyboard_defaulten}7{Keyboard_last}', key_back_color: bh1, key_text_color: th1}
-      - {click: i, swipe_up: I, long_click: '{Keyboard_defaulten}8{Keyboard_last}', key_back_color: bh1, key_text_color: th1, swipe_right: Keyboard_nihon, hint: "       に⃯"}
+      - {click: u, swipe_up: U, long_click: '{Keyboard_defaulten}7{Keyboard_last}', key_back_color: bh1, key_text_color: th1, swipe_right: Keyboard_hira, hint: "     か⃯"}
+      - {click: i, swipe_up: I, long_click: '{Keyboard_defaulten}8{Keyboard_last}', key_back_color: bh1, key_text_color: th1, swipe_right: Keyboard_nihon, hint: "     に⃯"}
       - {click: o, swipe_up: O, long_click: '{Keyboard_defaulten}9{Keyboard_last}', key_back_color: bh1, key_text_color: th1}
       - {click: p, swipe_up: P, long_click: '{Keyboard_defaulten}0{Keyboard_last}', key_back_color: bh1, key_text_color: th1}
 
       - {width: 5, key_back_color: bh2, key_text_color: th2}
       - {click: a, swipe_up: A, long_click: select_all, key_back_color: bh2, key_text_color: th2}
       - {click: s, swipe_up: S, long_click: '@', key_back_color: bh2, key_text_color: th2}
-      - {click: d, swipe_up: D, long_click: '#', key_back_color: bh2, key_text_color: th2}
-      - {click: f, swipe_up: F, long_click: '$', key_back_color: bh2, key_text_color: th2}
-      - {click: g, swipe_up: G, long_click: '%', swipe_down: "^", key_back_color: bh2, key_text_color: th2, swipe_right: Keyboard_hun, hint: "       ㅎ⃯"}
+      - {click: d, swipe_up: D, long_click: '#', swipe_down: '""{Left}', key_back_color: bh2, key_text_color: th2}
+      - {click: f, swipe_up: F, long_click: '$', swipe_down: "''{Left}", key_back_color: bh2, key_text_color: th2}
+      - {click: g, swipe_up: G, long_click: '%', swipe_down: "^", key_back_color: bh2, key_text_color: th2, swipe_right: Keyboard_hun, hint: "     ㅎ⃯"}
       - {click: h, swipe_up: H, long_click: '!', swipe_down: "+", key_back_color: bh2, key_text_color: th2}
       - {click: j, swipe_up: J, long_click: '&', swipe_down: "-", key_back_color: bh2, key_text_color: th2}
       - {click: k, swipe_up: K, long_click: '*', swipe_down: "_", key_back_color: bh2, key_text_color: th2}
-      - {click: l, swipe_up: L, long_click: '(){Left}', swipe_down: "=", key_back_color: bh2, key_text_color: th2}
+      - {click: l, swipe_up: L, long_click: '(){Left}', swipe_down: "=", key_back_color: bh2, key_text_color: th2, swipe_right: Keyboard_lao, hint: "   ລາວ⃯"}
       - {width: 5, key_back_color: bh2, key_text_color: th2}
 
       - {click: Shift_L, composing: delimiter, width: 15}
@@ -537,9 +537,9 @@ preset_keyboards:
 
       - {click: Keyboard_number, long_click: Menu, width: 12.5, key_back_color: bgn, key_text_color: tgn}
       - {click: Keyboard_bqrw, long_click: Theme_settings, swipe_up: Color_switch, width: 12.5, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡配色"}
-      - {click: ',', label: '，', long_click: '<>{Left}', key_back_color: bh4, key_text_color: th4}
+      - {click: ',', label: '，', swipe_up: Page_Up, long_click: '<>{Left}', hint: '⇡上頁', key_back_color: bh4, key_text_color: th4}
       - {click: space, long_click: Mode_switch, swipe_left: "Left", swipe_right: "Right", swipe_up: Schema_switchcn, width: 30, key_back_color: bkg, key_text_color: tkg}
-      - {click: '.', label: '。', long_click: Keyboard_kao, key_back_color: bh4, key_text_color: th4}
+      - {click: '.', label: '。', swipe_up: Page_Down, long_click: Keyboard_kao, hint: '⇡下頁', key_back_color: bh4, key_text_color: th4}
       - {click: Keyboard_editor, swipe_up: CommitScriptText, long_click: Keyboard_bqsy3, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡文碼"}
       - {click: Return, swipe_up: Escape, long_click: CommitComment, width: 15, key_back_color: benter, key_text_color: tenter}
 
@@ -555,10 +555,10 @@ preset_keyboards:
       - {click: w, long_click: 2, key_back_color: bh1, key_text_color: th1}
       - {click: e, long_click: 3, key_back_color: bh1, key_text_color: th1}
       - {click: r, long_click: 4, key_back_color: bh1, key_text_color: th1}
-      - {click: t, long_click: 5, key_back_color: bh1, key_text_color: th1, swipe_up: Keyboard_hira, hint: "       か⃯"}
+      - {click: t, long_click: 5, key_back_color: bh1, key_text_color: th1, swipe_up: Keyboard_hira, hint: "     か⃯"}
       - {click: y, long_click: 6, key_back_color: bh1, key_text_color: th1}
       - {click: u, long_click: 7, key_back_color: bh1, key_text_color: th1}
-      - {click: i, long_click: 8, key_back_color: bh1, key_text_color: th1, swipe_up: Keyboard_nihon, hint: "       に⃯"}
+      - {click: i, long_click: 8, key_back_color: bh1, key_text_color: th1, swipe_up: Keyboard_nihon, hint: "     に⃯"}
       - {click: o, long_click: 9, key_back_color: bh1, key_text_color: th1}
       - {click: p, long_click: 0, key_back_color: bh1, key_text_color: th1}
 
@@ -567,7 +567,7 @@ preset_keyboards:
       - {click: s, long_click: '@', key_back_color: bh2, key_text_color: th2}
       - {click: d, long_click: '#', key_back_color: bh2, key_text_color: th2}
       - {click: f, long_click: '$', key_back_color: bh2, key_text_color: th2}
-      - {click: g, long_click: '%', swipe_down: "^", key_back_color: bh2, key_text_color: th2, swipe_up: '{Mode_switch}{Keyboard_hun}', hint: "       ㅎ⃯"}
+      - {click: g, long_click: '%', swipe_down: "^", key_back_color: bh2, key_text_color: th2, swipe_up: '{Mode_switch}{Keyboard_hun}', hint: "     ㅎ⃯"}
       - {click: h, long_click: '!', swipe_down: "+", key_back_color: bh2, key_text_color: th2}
       - {click: j, long_click: '&', swipe_down: "-", key_back_color: bh2, key_text_color: th2}
       - {click: k, long_click: '*', swipe_down: "_", key_back_color: bh2, key_text_color: th2}
@@ -586,9 +586,9 @@ preset_keyboards:
 
       - {click: Keyboard_number, long_click: Menu, width: 12.5, key_back_color: bgn, key_text_color: tgn}
       - {click: Keyboard_bqrw, long_click: Theme_settings, swipe_up: Color_switch, width: 12.5, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡配色"}
-      - {click: ',', label: '，', long_click: '<>{Left}', key_back_color: bh4, key_text_color: th4}
+      - {click: ',', label: '，', swipe_up: Page_Up, long_click: '<>{Left}', hint: '⇡上頁', key_back_color: bh4, key_text_color: th4}
       - {click: space, long_click: Mode_switch, swipe_left: "Left", swipe_right: "Right", swipe_up: Keyboard_fbj, width: 30, key_back_color: bkg, key_text_color: tkg}
-      - {click: '.', label: '。', long_click: Keyboard_kao, key_back_color: bh4, key_text_color: th4}
+      - {click: '.', label: '。', swipe_up: Page_Down, long_click: Keyboard_kao, hint: '⇡下頁', key_back_color: bh4, key_text_color: th4}
       - {click: Keyboard_editor, swipe_up: CommitScriptText, long_click: Keyboard_bqsy3, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡文碼"}
       - {click: Return, swipe_up: Escape, long_click: CommitComment, width: 15, key_back_color: benter, key_text_color: tenter}
 
@@ -634,11 +634,167 @@ preset_keyboards:
 
       - {click: Keyboard_number, long_click: Menu, width: 12.5, key_back_color: bgn, key_text_color: tgn}
       - {click: Keyboard_bqrw, long_click: Theme_settings, swipe_up: Color_switch, width: 12.5, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡配色"}
-      - {click: ',', label: '，', long_click: '<>{Left}', key_back_color: bh4, key_text_color: th4}
+      - {click: ',', label: '，', swipe_up: Page_Up, long_click: '<>{Left}', hint: '⇡上頁', key_back_color: bh4, key_text_color: th4}
       - {click: space, long_click: Mode_switch, swipe_left: "Left", swipe_right: "Right", swipe_up: Schema_switchcn, width: 30, key_back_color: bkg, key_text_color: tkg}
-      - {click: '.', label: '。', long_click: Keyboard_kao, key_back_color: bh4, key_text_color: th4}
+      - {click: '.', label: '。', swipe_up: Page_Down, long_click: Keyboard_kao, hint: '⇡下頁', key_back_color: bh4, key_text_color: th4}
       - {click: Keyboard_editor, swipe_up: CommitScriptText, long_click: Keyboard_bqsy3, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡文碼"}
       - {click: Return, swipe_up: Escape, long_click: CommitComment, width: 15, key_back_color: benter, key_text_color: tenter}
+
+  thai:
+    author: "Dr.Khuy edited"
+    name: 26键泰文佈局
+    width: 8.3
+    height: *jpgd4
+    ascii_mode: 0
+    keys:
+      - {label: "ๆ", click: "ๆ", long_click: '_', key_back_color: bh1, key_text_color: th1, swipe_up: "๐", hint: "๐"}
+      - {swipe_right: '{Left}ไ{Right}', label: "ไ", click: "ไ", long_click: 'ๅ', key_back_color: bh1, key_text_color: th1, swipe_up: '{Left}ไ{Right}ย', hint: "ไ–ย"}
+      - {label: "ำ", click: "ำ", long_click: '–', key_back_color: bh1, key_text_color: th1, swipe_up: "ฎ", hint: "ฎ"}
+      - {label: "พ", click: "พ", long_click: 'ภ', key_back_color: bh1, key_text_color: th1, swipe_up: "ฑ", hint: "ฑ"}
+      - {label: "ะ", click: "ะ", long_click: 'ถ', key_back_color: bh1, key_text_color: th1, swipe_up: "ธ", hint: "ธ"}
+      - {swipe_down: '{Left}็{Right}', swipe_right: '{Left}ั{Right}', label: "ั", click: "ั", long_click: 'ุ', key_back_color: bh1, key_text_color: th1, swipe_up: "๊", swipe_left: Keyboard_default, hint: "ั ⃮กลับ"}
+      - {swipe_left: '{Left}เ{Right}ีย', swipe_right: '{Left}ี{Right}', label: "ี", click: "ี", long_click: 'ึ', key_back_color: bh1, key_text_color: th1, swipe_up: "฿", hint: "฿"}
+      - {label: "ร", click: "ร", long_click: 'ค', key_back_color: bh1, key_text_color: th1, swipe_up: "ณ", hint: "ณ"}
+      - {label: "น", click: "น", long_click: 'ต', key_back_color: bh1, key_text_color: th1, swipe_up: "ฯ", hint: "ฯ"}
+      - {label: "ย", click: "ย", long_click: 'จ', key_back_color: bh1, key_text_color: th1, swipe_up: "ญ", hint: "ญ"}
+      - {label: "บ", click: "บ", long_click: 'ข', key_back_color: bh1, key_text_color: th1, swipe_up: "ฐ", hint: "ฐ"}
+      - {label: "ล", click: "ล", long_click: 'ช', key_back_color: bh1, key_text_color: th1, swipe_up: "ฅ", hint: "ฅ"}
+      
+      - {label: "ฟ", click: "ฟ", long_click: select_all, key_back_color: bh2, key_text_color: th2, swipe_up: "ฤ", hint: "ฤ"}
+      - {label: "ห", click: "ห", long_click: '@', key_back_color: bh2, key_text_color: th2, swipe_up: "ฆ", hint: "ฆ"}
+      - {label: "ก", click: "ก", long_click: '#', key_back_color: bh2, key_text_color: th2, swipe_up: "ฏ", hint: "ฏ"}
+      - {label: "ด", click: "ด", long_click: '$', key_back_color: bh2, key_text_color: th2, swipe_up: "โ", hint: "โ"}
+      - {swipe_left: '{Left}เ{Right}ว', swipe_right: '{Left}เ{Right}', label: "เ", click: "เ", long_click: '%', swipe_down: "^", key_back_color: bh2, key_text_color: th2, swipe_up: "ฌ", hint: "ฌ"}
+      - {swipe_right: '{Left}้{Right}', label: "้", click: "้", long_click: '!', swipe_down: "+", key_back_color: bh2, key_text_color: th2, swipe_up: "็", hint: "็"}
+      - {swipe_right: '{Left}่{Right}', label: "่", click: "่", long_click: '&', swipe_down: "-", key_back_color: bh2, key_text_color: th2, swipe_up: "๋", hint: "๋"}
+      - {swipe_right: '{Left}เ{Right}า', label: "า", click: "า", long_click: '*', swipe_down: "_", key_back_color: bh2, key_text_color: th2, swipe_up: "ษ", hint: "ษ"}
+      - {label: "ส", click: "ส", long_click: '(){Left}', swipe_down: "=", key_back_color: bh2, key_text_color: th2, swipe_up: "ศ", hint: "ศ"}
+      - {swipe_right: 'ัว', label: "ว", click: "ว", long_click: '+', swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "ซ", hint: "ซ"}
+      - {label: "ง", click: "ง", long_click: '', swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "", hint: ""}
+      - {label: "ฃ", click: "ฃ", long_click: Keyboard_lao, swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "", hint: ""}
+
+      - {width: 8.5, click: Keyboard_thai2, composing: delimiter}
+      - {label: "ผ", click: "ผ", long_click: '`', swipe_down: '[]{Left}', key_back_color: bh3, key_text_color: th3, swipe_up: "ฤๅ", hint: "ฤๅ"}
+      - {label: "ป", click: "ป", long_click: cut, swipe_down: '{}{Left}', key_back_color: bh3, key_text_color: th3, swipe_up: "", hint: ""}
+      - {swipe_left: '{Left}แ{Right}ว', swipe_right: '{Left}แ{Right}', label: "แ", click: "แ", long_click: copy, swipe_down: Tab, key_back_color: bh3, key_text_color: th3, swipe_up: "ฉ", hint: "ฉ"}
+      - {swipe_left: '{Left}เ{Right}ย', swipe_right: '{Left}เ{Right}อ', label: "อ", click: "อ", long_click: paste, swipe_down: "\\", key_back_color: bh3, key_text_color: th3, swipe_up: "ฮ", hint: "ฮ"}
+      - {swipe_right: '{Left}ิ{Right}', label: "ิ", click: "ิ", long_click: ";", key_back_color: bh3, key_text_color: th3, swipe_up: "ฺ", hint: "ฺ"}
+      - {swipe_left: '{Left}เ{Right}ือ', swipe_right: '{Left}ื{Right}', label: "ื", click: "ื", long_click: ":", key_back_color: bh3, key_text_color: th3, swipe_up: "์", hint: "์"}
+      - {label: "ท", click: "ท", long_click: '?', swipe_down: "|", key_back_color: bh3, key_text_color: th3, swipe_up: "ฒ", hint: "ฒ"}
+      - {label: "า", click: "า", long_click: '', swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "ฬ", hint: "ฬ"}
+      - {swipe_right: '{Left}ใ{Right}', label: "ใ", click: "ใ", long_click: '', swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "ฦ", hint: "ฦ"}
+      - {label: "ฝ", click: "ฝ", long_click: '', swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "ฦๅ", hint: "ฦๅ"}
+      - {width: 8.5, click: BackSpace, swipe_left: BackToPrevious, swipe_down: '{Left}{BackSpace}{Right}', key_back_color: bbs, key_text_color: tbs, hint: "⇣刪左"}
+
+      - {click: Keyboard_number, long_click: Menu, width: 12.5, key_back_color: bgn, key_text_color: tgn}
+      - {click: Keyboard_bqrw, long_click: Theme_settings, swipe_up: Color_switch, width: 12.5, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡配色"}
+      - {width: 10, click: ',', label: '，', swipe_up: Page_Up, long_click: '<>{Left}', hint: '⇡上頁', key_back_color: bh4, key_text_color: th4}
+      - {click: space, long_click: Mode_switch, swipe_left: "Left", swipe_right: "Right", swipe_up: Schema_switchcn, width: 30, key_back_color: bkg, key_text_color: tkg}
+      - {width: 10, click: '.', label: '。', swipe_up: Page_Down, long_click: Keyboard_kao, hint: '⇡下頁', key_back_color: bh4, key_text_color: th4}
+      - {width: 10, click: Keyboard_editor, swipe_up: CommitScriptText, long_click: Keyboard_bqsy3, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡文碼"}
+      - {click: Return, swipe_up: Escape, long_click: CommitComment, width: 15, key_back_color: benter, key_text_color: tenter}
+
+  thai2:
+    author: "Dr.Khuy edited"
+    name: 26键泰文佈局上檔
+    width: 10
+    height: *jpgd4
+    ascii_mode: 0
+    keys:
+      - {label: "๐", click: "๐", long_click: '๑', key_back_color: bh1, key_text_color: th1, swipe_up: "ๆ", hint: "ๆ ฿", swipe_down: "฿"}
+      - {label: "ฎ", click: "ฎ", long_click: '๒', key_back_color: bh1, key_text_color: th1, swipe_up: "ไ", hint: "ไ ๅ", swipe_down: "ๅ"}
+      - {label: "ฑ", click: "ฑ", long_click: '๓', key_back_color: bh1, key_text_color: th1, swipe_up: "ำ", hint: "ำ ภ", swipe_down: "ภ"}
+      - {label: "ธ", click: "ธ", long_click: '๔', key_back_color: bh1, key_text_color: th1, swipe_up: "พ", hint: "พ ถ", swipe_down: "ถ"}
+      - {swipe_right: '{Left}๊{Right}', label: "๊", click: "๊", long_click: 'ู', key_back_color: bh1, key_text_color: th1, swipe_up: "ะ", swipe_left: Keyboard_default, hint: "ะ  ⃮กลับ"}
+      - {label: "ณ", click: "ณ", long_click: '๕', key_back_color: bh1, key_text_color: th1, swipe_up: "ร", hint: "ร ค", swipe_down: "ค"}
+      - {label: "ฯ", click: "ฯ", long_click: '๖', key_back_color: bh1, key_text_color: th1, swipe_up: "น", hint: "น ต", swipe_down: "ต"}
+      - {label: "ญ", click: "ญ", long_click: '๗', key_back_color: bh1, key_text_color: th1, swipe_up: "ย", hint: "ย จ", swipe_down: "จ"}
+      - {label: "ฐ", click: "ฐ", long_click: '๘', key_back_color: bh1, key_text_color: th1, swipe_up: "บ", hint: "บ ข", swipe_down: "ข"}
+      - {label: "ฅ", click: "ฅ", long_click: '๙', key_back_color: bh1, key_text_color: th1, swipe_up: "ย", hint: "ย ช", swipe_down: "ช"}
+
+      - {swipe_right: 'ฤๅ', label: "ฤ", click: "ฤ", long_click: select_all, key_back_color: bh2, key_text_color: th2, swipe_up:  "ฟ", hint: "ฟ"}
+      - {label: "ฆ", click: "ฆ", long_click: 'ุ', swipe_down: "{Left}ุ{Right}", key_back_color: bh2, key_text_color: th2, swipe_up: "ห", hint: "ห"}
+      - {label: "ฏ", click: "ฏ", long_click: 'ึ', swipe_down: "{Left}ึ{Right}", key_back_color: bh2, key_text_color: th2, swipe_up: "ก", hint: "ก"}
+      - {swipe_left: '{Left}โ{Right}ย', swipe_right: '{Left}โ{Right}', label: "โ", click: "โ", long_click: 'ั', swipe_down: "{Left}้{Right}", key_back_color: bh2, key_text_color: th2, swipe_up: "ด", hint: "ด"}
+      - {label: "ฌ", click: "ฌ", long_click: 'ี', swipe_down: "{Left}ี{Right}", key_back_color: bh2, key_text_color: th2, swipe_up: "เ", hint: "เ"}
+      - {swipe_right: '{Left}็{Right}', label: "็", click: "็", long_click: '้', swipe_down: "{Left}้{Right}", key_back_color: bh2, key_text_color: th2, swipe_up: "า", hint: "า"}
+      - {swipe_right: '{Left}๋{Right}', label: "๋", click: "๋", long_click: '่', swipe_down: "{Left}่{Right}", key_back_color: bh2, key_text_color: th2, swipe_up: "ส", hint: "ส"}
+      - {label: "ษ", click: "ษ", long_click: 'ิ', swipe_down: "{Left}ิ{Right}", key_back_color: bh2, key_text_color: th2, swipe_up: "ว", hint: "ว"}
+      - {label: "ศ", click: "ศ", long_click: 'ื', swipe_down: "{Left}ื{Right}", key_back_color: bh2, key_text_color: th2, swipe_up: "ง", hint: "ง"}
+      - {label: "ซ", click: "ซ", long_click: Keyboard_lao, swipe_down: "–", key_back_color: bh2, key_text_color: th2, swipe_up: "ฃ", hint: "ฃ"}
+
+      - {click: Keyboard_thaidown, composing: delimiter, width: 15}
+      - {label: "ฉ", click: "ฉ", long_click: '`', swipe_down: '[]{Left}', key_back_color: bh3, key_text_color: th3, swipe_up: "ผ", hint: "ผ"}
+      - {label: "ฮ", click: "ฮ", long_click: cut, swipe_down: '{}{Left}', key_back_color: bh3, key_text_color: th3, swipe_up: "ป", hint: "ป"}
+      - {swipe_right: '{Left}ฺ{Right}', label: "ฺ", click: "ฺ", long_click: copy, swipe_down: Tab, key_back_color: bh3, key_text_color: th3, swipe_up: "แ", hint: "แ"}
+      - {swipe_right: '{Left}์{Right}', label: "์", click: "์", long_click: paste, swipe_down: "\\", key_back_color: bh3, key_text_color: th3, swipe_up: "อ", hint: "อ"}
+      - {label: "ฒ", click: "ฒ", long_click: ";", key_back_color: bh3, key_text_color: th3, swipe_up: "ท", hint: "ท"}
+      - {label: "ฬ", click: "ฬ", long_click: ":", key_back_color: bh3, key_text_color: th3, swipe_up: "า", hint: "า"}
+      - {swipe_right: 'ฦๅ', label: "ฦ", click: "ฦ", long_click: '?', swipe_down: "|", key_back_color: bh3, key_text_color: th3, swipe_up: "ใ", hint: "ใ"}
+      - {click: BackSpace, swipe_left: BackToPrevious, swipe_down: '{Left}{BackSpace}{Right}', key_back_color: bbs, key_text_color: tbs, width: 15, hint: "⇣刪左"}
+
+      - {click: Keyboard_number, long_click: Menu, width: 12.5, key_back_color: bgn, key_text_color: tgn}
+      - {click: Keyboard_bqrw, long_click: Theme_settings, swipe_up: Color_switch, width: 12.5, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡配色"}
+      - {click: ',', label: '，', swipe_up: Page_Up, long_click: '<>{Left}', hint: '⇡上頁', key_back_color: bh4, key_text_color: th4}
+      - {click: space, long_click: Mode_switch, swipe_left: "Left", swipe_right: "Right", swipe_up: Schema_switchcn, width: 30, key_back_color: bkg, key_text_color: tkg}
+      - {click: '.', label: '。', swipe_up: Page_Down, long_click: Keyboard_kao, hint: '⇡下頁', key_back_color: bh4, key_text_color: th4}
+      - {click: Keyboard_editor, swipe_up: CommitScriptText, long_click: Keyboard_bqsy3, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡文碼"}
+      - {click: Return, swipe_up: Escape, long_click: CommitComment, width: 15, key_back_color: benter, key_text_color: tenter}
+
+  lao:
+    author: "Dr.Khuy edited"
+    name: 26键老撾文佈局
+    width: 8.3
+    height: *jpgd4
+    ascii_mode: 0
+    keys:
+      - {label: "ົ", click: "ົ", long_click: 'ໍ', key_back_color: bh1, key_text_color: th1, swipe_up: "໐", hint: "໐"}
+      - {swipe_right: '{Left}ໄ{Right}', label: "ໄ", click: "ໄ", long_click: 'ຢ', key_back_color: bh1, key_text_color: th1, swipe_up: '₭', hint: "₭"}
+      - {label: "ຳ", click: "ຳ", long_click: 'ຟ', key_back_color: bh1, key_text_color: th1, swipe_up: "ຯ", hint: "ຯ"}
+      - {swipe_right: '{Left}ໂ{Right}ຍ', label: "ພ", click: "ພ", long_click: 'ໂ', key_back_color: bh1, key_text_color: th1, swipe_up: '{Left}ໂ{Right}', hint: "ໂ-"}
+      - {label: "ະ", click: "ະ", long_click: 'ຖ', key_back_color: bh1, key_text_color: th1, swipe_up: "ໆ", hint: "ໆ"}
+      - {swipe_left: '{Left}ເ{Right}ິ', swipe_right: '{Left}ິ{Right}', label: "ິ", click: "ິ", long_click: 'ຸ', key_back_color: bh1, key_text_color: th1, swipe_up: "໌", hint: "໌"}
+      - {swipe_left: '{Left}ເ{Right}ີ', swipe_right: '{Left}ີ{Right}', label: "ີ", click: "ີ", long_click: 'ູ', key_back_color: bh1, key_text_color: th1, swipe_up: "ຼ", hint: "ຼ"}
+      - {label: "ຮ", click: "ຮ", long_click: 'ຄ', key_back_color: bh1, key_text_color: th1, swipe_up: "ຣ", hint: "ຣ"}
+      - {label: "ນ", click: "ນ", long_click: 'ຕ', key_back_color: bh1, key_text_color: th1, swipe_up: "ໜ", hint: "ໜ"}
+      - {swipe_left: '{Left}ເ{Right}ຍ', swipe_right: '{Left}ເ{Right}ັຍ', label: "ຍ", click: "ຍ", long_click: 'ຈ', key_back_color: bh1, key_text_color: th1, swipe_up: "ຽ", hint: "ຽ"}
+      - {label: "ບ", click: "ບ", long_click: 'ຂ', key_back_color: bh1, key_text_color: th1, swipe_up: 'ັຽ', hint: "-ັຽ"}
+      - {label: "ລ", click: "ລ", long_click: 'ຊ', key_back_color: bh1, key_text_color: th1, swipe_up: "ຫຼ", hint: "ຫຼ"}
+      
+      - {label: "ັ", click: "ັ", long_click: select_all, key_back_color: bh2, key_text_color: th2, swipe_up: "໑", hint: "໑"}
+      - {label: "ຫ", click: "ຫ", long_click: '@', key_back_color: bh2, key_text_color: th2, swipe_up: "໒", hint: "໒"}
+      - {label: "ກ", click: "ກ", long_click: '#', key_back_color: bh2, key_text_color: th2, swipe_up: "໓", hint: "໓"}
+      - {label: "ດ", click: "ດ", long_click: '$', key_back_color: bh2, key_text_color: th2, swipe_up: "໔", hint: "໔"}
+      - {swipe_left: '{Left}ເ{Right}ວ', swipe_right: '{Left}ເ{Right}', label: "ເ", click: "ເ", long_click: '%', swipe_down: "^", key_back_color: bh2, key_text_color: th2, swipe_up: "໕", hint: "໕"}
+      - {swipe_right: '{Left}้{Right}', label: "້", click: "້", long_click: '!', swipe_down: "+", key_back_color: bh2, key_text_color: th2, swipe_up: "໊", hint: "໊"}
+      - {swipe_right: '{Left}่{Right}', label: "່", click: "່", long_click: '&', swipe_down: "-", key_back_color: bh2, key_text_color: th2, swipe_up: "໋", hint: "໋"}
+      - {swipe_right: '{Left}ເ{Right}ົາ', label: "າ", click: "າ", long_click: '*', swipe_down: "_", key_back_color: bh2, key_text_color: th2, swipe_up: "໖", hint: "໖"}
+      - {label: "ສ", click: "ສ", long_click: '(){Left}', swipe_down: "=", key_back_color: bh2, key_text_color: th2, swipe_up: "໗", hint: "໗"}
+      - {swipe_left: 'ົວ', swipe_right: 'ັວ', label: "ວ", click: "ວ", long_click: '+', swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "໘", hint: "໘"}
+      - {label: "ງ", click: "ງ", long_click: '-', swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "໙", hint: "໙"}
+      - {label: "ໍ", click: "ໍ", long_click: Keyboard_thai, swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "ໍ່", swipe_left: Keyboard_default, hint: " ໍ່ ⃮ກັບ"}
+
+      - {width: 8.5, click: Keyboard_thai2, composing: delimiter}
+      - {label: "ຜ", click: "ຜ", long_click: '`', swipe_down: '[]{Left}', key_back_color: bh3, key_text_color: th3, swipe_up: "", hint: ""}
+      - {label: "ປ", click: "ປ", long_click: cut, swipe_down: '{}{Left}', key_back_color: bh3, key_text_color: th3, swipe_up: "", hint: ""}
+      - {swipe_left: '{Left}ແ{Right}ວ', swipe_right: '{Left}ແ{Right}', label: "ແ", click: "ແ", long_click: copy, swipe_down: Tab, key_back_color: bh3, key_text_color: th3, swipe_up: "", hint: ""}
+      - {swipe_left: '{Left}ເ{Right}ຍ', swipe_right: '{Left}ເ{Right}ອ', label: "ອ", click: "ອ", long_click: paste, swipe_down: "\\", key_back_color: bh3, key_text_color: th3, swipe_up: "", hint: ""}
+      - {swipe_left: '{Left}ເ{Right}ຶອ', swipe_right: '{Left}ຶ{Right}', label: "ຶ", click: "ຶ", long_click: ";", key_back_color: bh3, key_text_color: th3, swipe_up: "ฺ", hint: "ฺ"}
+      - {swipe_left: '{Left}ເ{Right}ືອ', swipe_right: '{Left}ື{Right}', label: "ື", click: "ື", long_click: ":", key_back_color: bh3, key_text_color: th3, swipe_up: "์", hint: "์"}
+      - {label: "ທ", click: "ທ", long_click: '?', swipe_down: "|", key_back_color: bh3, key_text_color: th3, swipe_up: "", hint: ""}
+      - {label: "ມ", click: "ມ", long_click: '', swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "ໝ", hint: "ໝ"}
+      - {swipe_right: '{Left}ໃ{Right}', label: "ໃ", click: "ໃ", long_click: '', swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "", hint: ""}
+      - {label: "ຝ", click: "ຝ", long_click: '', swipe_down: "", key_back_color: bh2, key_text_color: th2, swipe_up: "", hint: ""}
+      - {width: 8.5, click: BackSpace, swipe_left: BackToPrevious, swipe_down: '{Left}{BackSpace}{Right}', key_back_color: bbs, key_text_color: tbs, hint: "⇣刪左"}
+
+      - {click: Keyboard_number, long_click: Menu, width: 12.5, key_back_color: bgn, key_text_color: tgn}
+      - {click: Keyboard_bqrw, long_click: Theme_settings, swipe_up: Color_switch, width: 12.5, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡配色"}
+      - {width: 10, click: ',', label: '，', swipe_up: Page_Up, long_click: '<>{Left}', hint: '⇡上頁', key_back_color: bh4, key_text_color: th4}
+      - {click: space, long_click: Mode_switch, swipe_left: "Left", swipe_right: "Right", swipe_up: Schema_switchcn, width: 30, key_back_color: bkg, key_text_color: tkg}
+      - {width: 10, click: '.', label: '。', swipe_up: Page_Down, long_click: Keyboard_kao, hint: '⇡下頁', key_back_color: bh4, key_text_color: th4}
+      - {width: 10, click: Keyboard_editor, swipe_up: CommitScriptText, long_click: Keyboard_bqsy3, key_text_size: "18", key_back_color: bgn, key_text_color: tgn, hint: "⇡文碼"}
+      - {click: Return, swipe_up: Escape, long_click: CommitComment, width: 15, key_back_color: benter, key_text_color: tenter}
+
 
   number:
     author: "暖暖, Dr.Khuy edited"
@@ -1158,7 +1314,7 @@ preset_keyboards:
     - {click: '💆'}
     - {click: '💇'}
     - {click: '🙍'}
-    - {click: '🙎'}
+    - {click: '??'}
     - {click: '🙅'}
     - {click: '🙆'}
     - {click: '💁'}
@@ -1798,7 +1954,7 @@ preset_keyboards:
     - {click: '🇰🇲'}
     - {click: '🇰🇳'}
     - {click: '🇰🇵'}
-    - {click: '🇰🇷'}
+    - {click: '??🇷'}
     - {click: '🇰🇼'}
     - {click: '🇰🇾'}
     - {click: '🇰🇿'}
@@ -1847,7 +2003,7 @@ preset_keyboards:
     - {click: '🇲🇱'}
     - {click: '🇲🇲'}
     - {click: '🇲🇳'}
-    - {click: '🇲🇴'}
+    - {click: '🇲??'}
     - {click: '🇲🇵'}
     - {click: '🇲🇷'}
     - {click: '🇲🇸'}
@@ -2488,7 +2644,7 @@ preset_keyboards:
     - {click: '🏟'}
     - {click: '🏛'}
     - {click: '🏗'}
-    - {click: '🏘'}
+    - {click: '??'}
     - {click: '🏙'}
     - {click: '🏚'}
     - {click: '🏠'}
@@ -3319,7 +3475,7 @@ preset_keyboards:
     - {click: '<>{Left}', swipe_up: '«»{Left}', swipe_down: '‹›{Left}', width: 10}
     - {click: '{}{Left}', width: 10}
     - {click: '[]{Left}', width: 10}
-    - {click: '`', width: 10}
+    - {click: '`', long_click: '′', width: 10}
     - {click: '%', long_click: '⁒', swipe_left: '‱‎', swipe_right: '‰', width: 10}
     - {click: '+', long_click: '×', swipe_right: '±', hint: '    ±', key_hint_offset_y: -5, width: 10}
     - {click: '-', long_click: '÷', swipe_left: '∓', hint: '∓    ', key_hint_offset_y: -5, width: 10}
@@ -3810,6 +3966,10 @@ preset_keys:
   Keyboard_nhndk: {label: ' ', functional: false, send: Eisu_toggle, select: nhndk}
   Keyboard_nhnhndk: {label: ' ', functional: false, send: Eisu_toggle, select: nhnhndk}
   Keyboard_hun: {label: '訓民正音', functional: false, send: Eisu_toggle, select: hun}
+  Keyboard_thai: {label: 'ไทย', functional: false, send: Eisu_toggle, select: thai}
+  Keyboard_thai2: {label: '⌂', functional: true, send: Eisu_toggle, on_key_back_color: benter, off_key_text_color: tbs, select: thai2}
+  Keyboard_lao: {label: 'ລາວ', functional: false, send: Eisu_toggle, select: lao}
+  Keyboard_thaidown: {label: '⌂', functional: true, send: Eisu_toggle, key_back_color: on_key_back_color, off_key_back_color: on_key_back_color, select: thai}
   Keyboard_symbols: {label: 更多, functional: false, send: Eisu_toggle, select: symbols}
   Keyboard_move: {label: ❖, functional: true, send: Eisu_toggle, select: move}
   Keyboard_next: {label: 后退, functional: false, send: Eisu_toggle, select: .next}
